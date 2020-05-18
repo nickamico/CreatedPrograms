@@ -1,2 +1,2 @@
-# CreatedPrograms
+# Hangman
 My Created Projects
